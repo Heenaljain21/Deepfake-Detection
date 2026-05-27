@@ -48,7 +48,7 @@ This project was developed as a **University Mini Project** with a focus on prac
 
 ### 🔹 Prediction Result
 
-![Prediction Result](Screenshots/Prediction_Result.png)
+![Prediction Result](screenshots/Prediction_Result.png)
 
 ---
 
