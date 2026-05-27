@@ -44,11 +44,11 @@ This project was developed as a **University Mini Project** with a focus on prac
 
 ### 🔹 Home Interface
 
-![Home Interface](assets/home_interface.png)
+![Home Interface](screenshots/Home_Interface.png)
 
 ### 🔹 Prediction Result
 
-![Prediction Result](assets/prediction_result.png)
+![Prediction Result](Screenshots/Prediction_Result.png)
 
 ---
 
